@@ -1,0 +1,45 @@
+.home-container{
+background-color: #0e2431;
+width: 100%;
+height: auto;
+.jumbotron-custom{
+background-color: transparent;
+
+    h1 {
+    color: #ffffff;
+    font-family: fantasy;
+    font-size: 42px;
+    }
+    p {
+    color: #ffffff;
+    }
+}
+.card-container{
+    .card-custom{
+        border-radius: 20px;
+        overflow: hidden;
+        height: 100%;
+        img{
+            height: 63%;
+        }
+    }
+}
+.modal-container{
+    .modal-custom-content{
+        background-color: #0e2431;
+        color: #ffffff;
+        h5{
+            font-size: 18px;
+        }
+        .modal-header{
+            border-bottom: none;
+        }
+        .modal-custom-body{
+
+            span {
+                font-size: 14px;
+            }
+        }
+    }
+}
+}
