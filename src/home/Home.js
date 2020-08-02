@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import './Home.scss';
 import placeholderImage from '../assets/images/placeholder.png';
 import { getData } from '../api-service/NewsApiService';
-import axios from 'axios';
 
 
 export class Home extends Component {
